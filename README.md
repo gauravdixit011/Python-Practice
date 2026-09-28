@@ -1,5 +1,11 @@
 # Python Practice Exercises
 
+## Author
+
+- Name: Gaurav Dixit
+- Software Engineer
+- Practice Folder: Python Practice
+
 ## Exercise Index
 
 1. [Python Basic Part 1](Python%20Basic%20Part%201.ipynb)
